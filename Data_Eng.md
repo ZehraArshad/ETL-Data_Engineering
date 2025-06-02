@@ -49,3 +49,5 @@ seeds:my_new_project:+schema: raw
 - Upload files in seed
 
 - Go to NeonDb and cross check the tables
+
+Link for data, guide - https://stratanconsulting-my.sharepoint.com/:w:/p/asim/ET3FeBm8rL1PnzyWv-eLIuAB28qIAibcycKl1jKEihapWQ?rtime=kVIreBKh3Ug
